@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">  
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=5000&vCenter=true&random=false&width=133&height=30&lines=Hello+there)](https://git.io/typing-svg) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**tutibase/tutibase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutibase&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tutibase&layout=compact&theme=github_dark) 
+
+
+
+
+
+
+
+
+
+
