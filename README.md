@@ -7,12 +7,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tutibase&layout=compact&theme=github_dark) 
 
-
-
-
-
-
-
-
-
-
+<!-- This content will not appear in the rendered Markdown -->
